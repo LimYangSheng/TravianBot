@@ -1,6 +1,11 @@
+
+# TravianBot #
+
 The TravianBot is a bot written for the game Travian.
 It is written solely for my own learning purposes and not for actual botting.
 It uses Python and Selenium to run the code.
+Selenium chrome driver can be obtained from the link below:
+https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
 
 ## Features ##
 This bot has the following features and their relevant information are described in TravianInfo.py:
